@@ -1,1 +1,4 @@
-check50
+submit50:
+  files:
+    - !exclude "*"
+    - !require "id.c"
