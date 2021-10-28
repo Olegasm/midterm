@@ -2,3 +2,4 @@ lab50:
   files:
     - !exclude "*"
     - !include "average.c"
+    - !include "U1.txt"
