@@ -1,4 +1,1 @@
 lab50: true
-  files:
-    - !exclude "*"
-    - !include "average.c"
