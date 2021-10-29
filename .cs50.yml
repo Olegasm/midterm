@@ -2,15 +2,6 @@ check50:
   files:
     - !exclude "*"
     - !require "average.c"
-    - !require "U1.txt"
-    - !require "U1rez.txt"
-
-lab50:
-  files:
-    - !exclude "*"
-    - !include "average.c"
-    - !include "U1.txt"
-    - !include "U1rez.txt"
 
 submit50:
   files:
